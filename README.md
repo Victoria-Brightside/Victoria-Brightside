@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hola undefined!
+
+Mi nombre es **Victoria Bernal**, actualmente estoy iniciando mi camino en el mundo de la programación.
+Estoy muy emocionada por estar aquí 🙂
+
+Me pueden encontar en TW como: **@iik_brightside**
+
 
 <!--
 **Victoria-Brightside/Victoria-Brightside** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
