@@ -13,3 +13,5 @@ Me pueden encontar en TW como: **@iik_brightside**
 ![Static Badge](https://img.shields.io/badge/React-white?logo=react&logoColor=%23ffffff&logoSize=auto&color=%2361DAFB)
 ![Static Badge](https://img.shields.io/badge/MySQL-white?logo=mysql&logoColor=%23ffffff&logoSize=auto&color=%234479A1)
 ![Static Badge](https://img.shields.io/badge/NodeJS-green?logo=nodedotjs&logoColor=%23ffffff&logoSize=auto&color=%235FA04E)
+![Static Badge](https://img.shields.io/badge/Git-orange?logo=git&logoColor=%23ffffff&logoSize=auto&color=%23F05032)
+![Static Badge](https://img.shields.io/badge/GitHub-orange?logo=github&logoColor=%23ffffff&logoSize=auto&color=%23181717)
