@@ -1,9 +1,11 @@
-# Hola undefined!
+# ¡Hola mundo!
 
-Mi nombre es **Victoria Bernal**, actualmente estoy iniciando mi camino en el mundo de la programación. Soy médico de formación, apasionada de las artes marciales y la tecnología.
-Estoy muy emocionada por estar aquí 🙂
+Mi nombre es **Victoria Bernal**, desarrolladora Front-End y estudiante de Ingeniería en Sistemas Computacionales, con experiencia en la creación de paginas web modernas utilizando React. Participante del programa Oracle Next Education (ONE) en Alura LATAM, donde fortalecí habilidades en desarrollo web, buenas practicas y trabajo colaborativo.
 
-Me pueden encontar en TW como: **@iik_brightside**
+Apasionada por la tecnología, el aprendizaje continuo y el desarrollo de soluciones con código.
+
+Te invito a visitar mi **página web**: [victoria-brightside](https://victoria-brightside.github.io/Portafolio-React/)
+
 
 ## My Tech Stack
 
